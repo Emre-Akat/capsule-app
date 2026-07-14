@@ -1,17 +1,25 @@
-# odak_kapsulu
+# 🌌 Capsule (Odak Kapsülü) - Gamified Productivity & Social App
 
-A new Flutter project.
+Welcome to **Capsule**, a next-generation gamified productivity and networking application built for developers, students, and focused individuals. 
 
-## Getting Started
+> **🎥 Watch the App in Action:**
+> *(https://github.com/user-attachments/assets/ed861a62-e5c3-429b-a994-57a566f72b59)*
 
-This project is a starting point for a Flutter application.
+## 🚀 Vision & Features
+Capsule is not just a timer; it's a digital ecosystem designed with an "Elegant Deep Space" UI/UX. It combines focus management with psychological triggers, social peer pressure, and a real in-app economy.
 
-A few resources to get you started if this is your first Flutter project:
+* **Gamified Social Feed:** Users share their goals, share code blocks (Markdown supported), and earn "Spark" points for engagement.
+* **Psychological Peer Pressure (Gossip System):** If a user breaks their daily focus streak, the system automatically broadcasts a "gossip" notification to all their followers.
+* **Stalker Radar (Intelligence):** Secretly notifies users if someone views their profile 3 times (anonymous) or 6 times (identified).
+* **Prestige Showcase:** Glowing dynamic avatar frames based on Spark points and a sleek Badge Showcase for achievements.
+* **Global Leaderboard:** Ranks top pilots based on their focus XP and engagement.
+* **Monetization Engine (Phase 5.0):** Fully integrated in-app economy using Google AdMob (Rewarded Video Ads) and RevenueCat (In-App Purchases) to buy "Streak Freeze" shields and premium avatar frames.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Tech Stack & Architecture
+* **Frontend:** Flutter & Dart (Cross-platform)
+* **Backend:** Firebase (Authentication, Cloud Firestore)
+* **Monetization:** Google Mobile Ads (AdMob), Purchases Flutter (RevenueCat)
+* **UI/UX Design:** Glassmorphism, Deep Space Dark Theme (`#0A0A0E`), Custom animations, and dynamic markdown rendering.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👨‍💻 Developer
+Developed by **Emre Akat**
