@@ -25,7 +25,7 @@ Capsule is not just a timer; it's a digital ecosystem designed with an "Elegant 
 * **UI/UX Design:** Glassmorphism, Deep Space Dark Theme (`#0A0A0E`), Custom animations, and dynamic markdown rendering.
 
 ## 👨‍💻 Developer
-Developed by **Emre Akat** (Founder of Akat Interactive)
+Developed by **Emre Akat**
 
 ---
 ---
@@ -56,4 +56,4 @@ Odak Kapsülü sıradan bir zamanlayıcı değildir; "Zarif Derin Uzay" (Elegant
 * **UI/UX Tasarım:** Glassmorphism, Derin Uzay Koyu Teması (`#0A0A0E`), Özel animasyonlar ve dinamik markdown işleme.
 
 ## 👨‍💻 Geliştirici
-**Emre Akat** (Akat Interactive Kurucusu) tarafından geliştirilmiştir.
+**Emre Akat** 
