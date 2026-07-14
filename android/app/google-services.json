@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889768761830",
+    "project_id": "odak-kapsulu",
+    "storage_bucket": "odak-kapsulu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889768761830:android:6278e261967a5e2dea5e27",
+        "android_client_info": {
+          "package_name": "com.example.odak_kapsulu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiDAbaGUBCPXTU9fmCgRiF78MA2VtWkW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
