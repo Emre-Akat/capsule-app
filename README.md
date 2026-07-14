@@ -3,7 +3,8 @@
 Welcome to **Capsule**, a next-generation gamified productivity and networking application built for developers, students, and focused individuals. 
 
 > **🎥 Watch the App in Action:**
-> *(https://github.com/user-attachments/assets/ed861a62-e5c3-429b-a994-57a566f72b59)*
+> *<img width="444" height="856" alt="EkranKayd2026-07-14095414-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/d0b599bf-20cf-4c5d-8876-b1b664a1388f" />
+*
 
 ## 🚀 Vision & Features
 Capsule is not just a timer; it's a digital ecosystem designed with an "Elegant Deep Space" UI/UX. It combines focus management with psychological triggers, social peer pressure, and a real in-app economy.
